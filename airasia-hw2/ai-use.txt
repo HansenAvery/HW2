@@ -1,0 +1,26 @@
+AI Tools used - Gemini and Chatgpt. 
+
+
+Prompts used - Use this pdf file to create static webpages in the associated php files in airasia-hw2 folder. 
+These are the requirements. 
+Use PHP file extensions (.php) for all required web pages. At this stage, the files should contain HTML and CSS only. Do not use PHP programming logic, databases, or JavaScript yet.
+Use the exact required filenames.
+Use an external CSS file and link it to all pages.
+Place images in an images folder and CSS in a css folder.
+Use the provided gift-card image or another appropriate gift-card image.
+Use realistic sample gift-card data.
+Include labels for every form control.
+Do not include Card ID as an editable form field because it is automatically generated.
+You do not need to create a Delete Card page for HW2.
+Make sure all pages, images, hyperlinks, and form actions work correctly in your browser.
+Do not include irrelevant or unused files. Points may be deducted for clutter.
+
+
+AI supported my work by creating the static webpages from the wireframes that I created by hand in the previous lab. I then used Gemini in github to make adjustments to the code that chatgpt provided for consistency. 
+Some examples of prompts I used with Gemini to improve the webpages. 
+"change the h3 headings on the card-list page to say Gift Card"
+"Remove the add card in the header for all pages and only leave the remaining add card button found on card-list.php"
+
+
+One example of an AI suggestion I rejected. The original iteration that chatgpt produced included GET requests and included different brand names on the card list page. I rejected those suggestions and made it so 
+every gift card was a generic gift card example. I also had to change an AI suggestion to only include one card on the card-list page when trying to include a generic template for the 6 cards displayed. 
